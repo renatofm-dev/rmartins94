@@ -1,15 +1,14 @@
 ### Hi there, Welcome to my profile 👋
 
-- 😁 My name is Renato Martins
-- 📅 I'm 28 years old
-- 🎓 Chemical Engineering Student
-- 🌱 I’m currently learning React with Typescript
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/renato-martins-a16531127/)
-- ⚡ Fun fact: I'm afraid of heights 
+* 😁 My name is Renato Martins
+* 📅 I'm 28 years old
+* 🎓 Chemical Engineering Student
+* 🌱 I’m currently learning React with Typescript
+* 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/renato-martins-a16531127/)
 
   <div style="display: inline_block">
   <a href="https://github.com/rmartins94">
-  <img width="auto"height="180em" src="https://github-readme-stats.vercel.app/api?username=rmartins94&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rmartins94&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmartins94&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
