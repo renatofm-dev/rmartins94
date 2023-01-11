@@ -1,4 +1,4 @@
-# Hi there, Welcome to my profile 👋
+# Hi there! Welcome to my profile 👋
 
 * 😁 My name is Renato Martins
 * 📅 I'm 28 years old
