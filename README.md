@@ -4,7 +4,7 @@
 - 📅 I'm 28 years old
 - 🎓 Chemical Engineering Student
 - 🌱 I’m currently learning React with Typescript
-- 📫 How to reach me: Linkedin
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/renato-martins-a16531127/)
 - ⚡ Fun fact: I'm afraid of heights 
 
   <div style="display: inline_block">
