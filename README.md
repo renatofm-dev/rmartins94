@@ -13,8 +13,10 @@
 
 <div style="display: inline_block"><br>
 
-  <img align="center" alt="rmartins-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   
+  <a href="https://github.com/rmartins94?tab=repositories&q=&type=&language=javascript&sort=">
+    <img align="center" alt="rmartins-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  </a>
   
   <a href="https://github.com/rmartins94?tab=repositories&q=&type=&language=typescript&sort=">
     <img align="center" alt="rmartins-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
